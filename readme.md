@@ -1,15 +1,19 @@
 # Transportation on vacation
 
-### Description
+## 🎮 About the Project
+A JavaScript function that calculates the vacation rate based on the term and discount.
 
-- Added a function that calculates vacation rate depends upon term and discount
-  
-### Stack
+## 🚀 Tech Stack
+- **JavaScript** (Function implementation and logic)
 
-- JS
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality
+- **Prettier** – Code formatting for readability
+- **Jest** – Unit testing framework
 
-### Tools
+## 📌 Features
+✅ Calculates vacation rate based on term and discount  
+✅ Simple and easy-to-use function  
 
-- ESlint
-- Prettier
-- Jest
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_task-transportation-on-vacation)
